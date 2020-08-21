@@ -18,7 +18,7 @@ public class Cart{
 	
 	@Id
 	private long productId;
-	private int productQuantity;
+	private int  productQuantity;
 	
 	
 	public Cart() {
